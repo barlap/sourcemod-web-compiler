@@ -4,8 +4,6 @@
   </a>
 </p>
 
-# SourceMod Online Compiler
-
 [![Website](https://img.shields.io/badge/Website-smx.icegame.ro-blue)](https://smx.icegame.ro)
 [![SourceMod](https://img.shields.io/badge/SourceMod-1.7.3%20to%201.12.0-orange)](https://smx.icegame.ro)
 [![Languages](https://img.shields.io/badge/Interface-16%20languages-green)](https://smx.icegame.ro)
